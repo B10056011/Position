@@ -1,0 +1,12 @@
+{
+  
+  "name": "postion",
+  "description": "Position",
+  "icons": {"128": "/icon-128.png"},
+  "launch_path": "/index.html",
+  "permissions": {"geolocation": {
+      "description": "Needed to tell the user where they are"
+      }},
+  "developer": {"name": "123"},
+  "type":"web"
+}
